@@ -1,0 +1,35 @@
+@media only screen and (max-width: 48rem)
+{
+}
+
+@media only screen and (min-width: 48rem)
+{
+    
+    .header
+    {
+        margin-left: 14rem;
+    }
+    
+    .content
+    {
+        width: 45rem
+    }
+    
+    .memo p
+    {
+        margin-left: 14rem;
+    }
+    
+    .photo {
+        padding: 0px;
+    }
+}
+
+@media only screen and (min-width: 62rem)
+{
+}
+
+@media only screen and (min-width: 75rem)
+{
+}
+

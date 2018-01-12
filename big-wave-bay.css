@@ -1,0 +1,16 @@
+body.zazitky
+{
+    background: #d7e5fb;
+    color: #455A7B;
+}
+
+body.zazitky h1
+{
+    padding-top: 2rem;
+}
+
+body.zazitky .motto
+{
+    margin-top: 4rem;
+    margin-bottom: 6rem;
+}
