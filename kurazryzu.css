@@ -176,6 +176,6 @@ h1 a {
 .topnav a {
     font-family:'Mono','Courier New', Courier;
     text-decoration: none;
-    border-bottom: 2px solid;
+    border-bottom: none;
     color: #333;
 }
