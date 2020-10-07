@@ -1,0 +1,1072 @@
+# Júl
+2020-07-01
+Hksar establishment day
+New evil law - National security Law
+Traditional protest
+
+2020-07-02
+Štvrtok
+
+Raňajky
+Ricotta, cherry tomatoes, olive oil, black pepper
+Mixed with tomatoes, ricotta tastes much better
+
+Piatok.
+
+priebeh Prvej balkánskej vojny sa stal prekvapivým svojou jednoznačnosťou. Srbská armáda s podporou Čiernej Hory bleskovo obsadila Novopazarský sandžak a  postupovala do hĺbky Macedónie a dnešného Albánska.
+Vo vo Viedni minister zahraničia Berchtold práve bolestne prežíval krach svojej balkánskej politiky a bol ochotný urobiť čokoľvek len aby zastavil Srbov na ich ceste k Jadranskému moru, ani nehovoriac. Pre Rakúsko-Uhorsko bola smrteľnou hrozbou čo i len predstava ruského loďstva v Srbmi kontrolovanom jadranskom prístave. Životne dôležitým záujmom mocnárstva preto bolo za každú cenu zabrániť Srbsku v prístupe k moru.
+
+Lalamove
+My role is about solving people's problems
+This week's tasks
+-improving payment experience (I'm not talking about payment methods)
+-solving conflicts between users and drivers regarding payments (not taking about addon fees, but about situations where final price is unclear)
+-helping CS manage orders on behalf of users (fixing system limitations)
+This better reflect WHAT, features is WHY
+PRDs - no view of customers. If we work on payment methods, why? What is their experience like? What if they hate it? 
+It's all about business value
+*Delighting business doesn't always mean delighting customer*
+If you say I want to solve this people's problem no one gives shit. If you say I want to save money for company, reduce CS contacts, people start listening.
+-
+Managing people and leading people is not the same thing
+
+Forex
+Lesson learned
+Abandon absolute numbers growth strategy - doesn't tell me how much I make - don't know when I am betting against myself
+To keep sustainable profit - track pockets
+Keep them in their currencies. 
+*To grow a pocket, need to bet against their currency*
+Always. That's only way that counts - develop aggressive instincts
+It doesn't ˇatter at what level I bet. All what matters is if my currency will go down
+
+
+
+
+Introduce
+
+2020-07-04
+
+Sobota
+
+Medzinárodné postavenie Rakúsko-Uhorska ale zostávalo neutešené. Monarchia, ktorej vnútornú silu neustále podrývali národnostné trenice, už popri ostatných veľmociach nestačila s dychom, a to zvádzalo kamuflovať
+
+Príčiny prvej svetovej vojny
+Pád osmanskej ríše a napätie medzi novými štátmi na balkóne snažiacimi sa čo najviac roztiahnuť svoje hranice. To sa premiérovo do vzťahov medzi veľmocami.
+Snaha o územné zisky centrálnych mocnosti a Dohody udržať ich
+
+Junk Boat
+Martin
+Spolužiačke na strednej sme sa smiali z jej preafektovanej nemčiny na strednej. Dáva to zmysel, dodáva ti do sebavedomie a ľudia si myslia, že ti to ide lepšie ako naozaj
+Začiatok so spojkami a podobnými vecami, ktoré spájajú izolované frázy. Zlepší to tvoju schopnosť sa vyjadrovať
+Mirroruj ľudí. Hovor presne to, čo oni. Vyslovuje presne rovnako
+Dôležité je potiahnuť také tóny, ktoré sú dlhé. Napríklad faan - jedlo - musí byť dlhé. Lam je les, laaaaahm je iné- daj si na Tom záležať. Všímajte si, kde sa používa h
+Zlespis svoju schopnosť vyjadrovať sa presne
+Vlado Škultéty - hovorí 20 jazykmi ako local a naozaj - pozri jeho blog
+Mirroruj bežne hovorovo frázy - gamh
+
+Zákon
+Cieľ vystrašiť ľudí a zaviesť autocenzuru. Dôležitejšie ako represalie.
+Komunistický manuál - Detaily zverejnené na poslednú chvíľu. Medzitým na verejnosť vypúšťané rôzne chýry.
+Vláda hovorí toto môžte hovoriť, toto už nie, za toto môžu byť problémy.
+Všetko s cieľom vyvolať ľudí a odradiť.
+
+Ľudí najskôr zaujímajú peniaze a až potom slobody.
+Pokiaľ im nesiahnu na peniaze a nechajú ich zarabat, tak veľké problémy s tým nebudú
+
+Normaliaˇzacia v Československu bola iná - státisíce ľudí bolo vyhodených z prace
+
+Opoziční lídri v reakcii na zákon rezognovali a niektorí emigrovali - takú reakciu možno ani Číňania nečakali
+Vyhrážali sa že všetci zhoršia s nimi a nakoniec to išlo hladko
+Odpor to oslabilo
+
+Neznáma je dopad vírusu na ekonomiky. Možno žiadne veľké zmeny nenastanú, možno to zamieša kartami viac ako si ktokoľvek dokáže predstaviť.
+
+BBc - deti emigrantov, čo sa vracajú naspäť do HK
+Možno skutočný dôvod je, že v Kanade sú znudeni.
+Zároveň, v Kanade sú Číňania v bielej krajine, v hK majú privilegium - sú domáci a navyše aj kanaďania. Viac svetoví.
+Rovnaké privilégium mám aj ja - na Slovensku by som bol jeden z davu, tu som expat, na ktorého sa pozerajú inak, niektoré veci možno prechazˇdzaju jednoduchšie
+
+Punk v Československu - mladí ľudia z fabrík, bez budúcnosti
+Čína má svoju triedu, niečo podobné
+
+M cí hoi Lei ga
+
+2020-07-05
+Nedeľa
+
+Reduce waste, reuse on occasions
+
+Jesus
+Pinged me yesterday and checked in for updates
+-lot of going on u will try to keep it as simple as possible
+-we have reinforced ourselves on our vision and in long term we see ourselves in inventing new ways how adventure stories are created and told
+-we brought in Julio to our team. He leads content marketing at global high-end scuba diving brand and he has many ideas how to put our community to the first place
+-Julio has prepared strategies which are being g translated to actions at this time. We are going to invite individuals for our ambassador program, tell explorer stories, build a knowledge base for outdoor related resources and pivoting our own podcast
+-me and Chris developed some ideas to get members anticipate on future events and to get them engaged in expeditions from the earliest possible stages where there is almost zero information to tell
+-we have also learned a lot about ourselves and we are trying to reflect as much as possible in our culture and brand
+-there will be a new website coming based on concept Her are some pics to convey 
+
+Forex - make your own stareategy. master one strategy at the time.
+Multiple strategies at the time will distract you
+
+When old strategy.doesnt work you create your philosophies.
+When you adopt a new strategy from your mentor, clean your mind first, create a space in your mind first. Forget what you know and immerse in new approach to the market
+
+Become authority in your price action setup before you move to another one. Don't do half things
+Leterally live, breath and sleep this one setup
+
+Make journal to track in which market conditions it excelled and when didn't perform well
+
+Once you are comfodent and consistently profitable, add setup to your toolbox
+
+
+
+Specialize - reason why Bill Gates or Serna Williams make so much money why rest of the world struggles
+Focus on thing you are passionate about
+Do it over and over until you have result you were looking for
+
+Foundlost
+Magic show
+Raining camels
+Mary Poppins
+I don't want to see static thank you text -  give me show that I will remember
+-sublimal message - inde-hk, 217
+--name evaporates to the top - flies like a balloon 
+-digital equivalent for Disneyland fireworks
+
+RGS
+Polnocny hovor
+Designs reviewed
+-smile - breaks ice
+-hopped on call on midnight, showed kindness with smile
+
+2020-07-07
+The life of a designer is not a parade of victories.
+There is enumerably more failures. But they must not stop us
+Korolev
+
+Forex
+Release emotional attachment from the market - creates realistic expectations
+Ok, market is bearish and returning to previous positions. No pockets to use in game, can only wait
+Mastering - make decisions uninfluenced by emotiom
+
+Lalamove
+My mission is to build the best web-based logistics client in the world
+-
+Principles, design systems and internal rules help to auto.ate some tasks and make some decisions faster
+Dont blindly follow them - cannot achieve excellent results
+
+2020-07-08
+
+
+When a trader panics, you can be pretty sure that for the next few hours or days, he or she is going to lose money
+
+Takes over your decision-making. You start trading scared, taking smaller positions on good ideas and cutting profits too quickly.
+
+ [Successful forex traders](https://www.learntotradethemarket.com/forex-articles/what-makes-a-successful-forex-trader)  don’t spend much time regretting decisions or going back over things
+
+Be decisive. Get over wrong moves. 
+When you mind gets to panic mode due to wrong decision, get off the desk, go to park for an hour
+
+You don't have to be smart to become a successful trader
+
+Being trader is like being police officer - most of the time nothing going on, suddenly got to be really fast
+Act decisively, hesitation is not your friend
+
+Master your trading method to build your confidence. Make sure you know it inside out.
+
+Even best traders will have losses. This cannot affect your positive mindset - you need to fully accept that emotionally and financially
+Don't get to shock or emotional pain if market anticipates differently (3 wrong trades in row may be devastating)
+
+Don't blame market - you have choice to enter or exit.
+
+Market has no responsibility do deliver anything
+
+Market is too erratic and there is too many moving variables to win every time
+
+Primas wedding banquet postponed
+He's penny-pincher - hates that
+Too obedient - don't show any critical thinking
+I'm just respecting parents - you are too conservative
+
+Ka Wai
+Values
+-showing indepence - at least on some level and on some critical issues
+-political views - tolerates misalignments, no tolerance for opposing views
+-give reasonable treats - shows respect to wife. Don't be stingy
+
+2020-07-09
+Štvrtok.
+
+If you could see yourself just for 10 mins in 10 years, would you take that opportunity?
+
+Isn't the joy in life in it's surprises?
+The constant venturing into the unknown.
+
+Rarely we are afraid of the unknown. What we are is afraid of the known coming to an end.
+
+Future very rarely looks like the past. Believing so sets us only up for disappointment
+#
+
+In my early teen years, I used to do door to door sales of fruit juice. It was an experience that I accredit with most of any business acumen I have.
+Even today, I'm not sure I would use the same courage to knock on doors
+
+Most of us wait in opportunities in life. They are closely in front of us only if we proactively look for it.
+
+The world is overflowing with opportunity for personal, business and relationship success
+You need to fight hard to get a hold of these opportunities
+The hardest is the first step - do first, apologize later
+
+Small moments in our life Cascade and have lasting impact
+
+Brooks - purpose of life - fund things to love and love them
+
+Concentration camps - those with weak sense of moral convinctions are most likely to survive
+
+Have I been true to my convinctions?
+When I faced challenging moments - did I stand by my virtues of compromised them?
+
+Pursue success of life - not by what I want from it but what it wants from me
+#
+
+Everyday we have opportunity to help a little more, grow a little more, love and fi´orgive a little more
+
+--
+
+Forex
+Every trader enters trades with the goal of making money but when this happens, some other trader has to lose. The market is made up of millions of traders who are each attempting to take money off each other and the market’s sole purpose is to provide the environment within which this is possible to do so. It thus owes nothing to anybody.
+
+Positive mindset - in face of risk and failure always remain positive and expect positive outcome
+#
+-
+Does Tiger Woods think about hitting bad stroke? He clears his mind of all negative factors and says I am about to win this.
+That's how pros think
+Train your mind for that
+
+There is always a sample of traders better than others. You are skillful of you show consistenly superior performance
+
+Spacial skills are advantage for trading
+
+Trading is not simple
+Managing g to survive in environment with no rules, where decisions are 100 percent subjective, where vast of money can be won or lost in second, where each gain is someone else's loss is not for weak hearted
+
+Being successful trader has a critical component in common with success in other areas of life.
+Experience can be imported or exported
+
+We cannot control all the cards but we can control cards on our hands
+Control our actions and emotions
+#
+
+Trading is a way how to make better decisions in life and become emotionally stronger
+Lalamove
+Melanie
+Task conflict survey
+-male decisions in interest of driver
+100usd vs 10
+If you force me to accept B, I will see 90 loss, not 10 gain
+K - you say we want to take changes as long as they don't threaten other orders. How do you define threat?
+Leave it on driver to decide what's in their interest
+
+Steve Jobs 1990
+Organisation hierarchies cannot adapt to changing business conditions quickly. You can hardly imagine someone working for another boss every week.
+Geographical adaptation is even slower - moving people
+With computer networks and great interfaces you can create a team of 15 in 15 mins. When they are not needed this organisation just vanishes
+Revolutionise how people collaborate and communicate - interpersonal computing
+
+You have your rights but you need to accept rights of others
+You can't have it only one way
+You are free to make a choice but you need to take consequences of your actions
+Don't mistake inconvinience with oppression
+
+We were taught to be disciplined as children, we were told what to do, when and how.
+How many still need orders from others to feel safe?
+-
+As children we wanted to grow up so we didn't take orders from others. We thought we could do it better
+
+In a world where instant gratification is promoted and patience is regarded as something unnecessary, learning to cope with our freedom is something what happens only to the few
+
+Being reader is to take responsibility for every behavior in the market. You will never meet good trader blaming something else for losing a trade
+-
+Good traders ask Did I follow my rules?
+If yes, loss is part of business
+#
+If not - why did I not? What can I improve?
+
+Create your daily trading routine
+-add degree of order and stability to trading - important for mindset - important for long term profitability
+-determines time when you will analyse the market
+
+Clearly defined reading plan should include
+entry signals, exit strategies, risk management, long term goals
+
+Your analysis must have structure - how do you want to become disciplined and successful reader if you don't have plan?
+
+Cleanse your mind and body rather than putting more time into market analysis
+
+Time spent exercising is much better than spending extra time analyzing the market; you can control your body and your mind but not the market. If you still have extra time after exercising, then read a book that expands your horizons on some topic,
+
+Your daily routine is essential for your success.
+Treat your trading as successful business that operated under strict routine
+
+Every day when I was picked up from school my mother asked
+-what questions did you ask today?
+
+Keď sa vrátil na palubu svojej materskej lode Real, vyvesili na nej pápežov dar – vlajku Svätej ligy s Kristom na kríži a znakmi troch hlavných členov katolíckeho zoskupenia.
+
+Na ďalšej z veliteľských lodí zas zaviala vlajka s nápisom „In hoc signa vinces“ – „V tomto znamení zvíťazíš“, čo bolo heslo používané cisárom Konštantínom Veľkým, ktoré mu vo sne údajne vyjavil sám Kristus.
+
+vojaci spievali a tancovali, aby tak zahnali strach, ktorý sa im pomaly vkrádal do hláv. V jednu chvíľu však Osmani zbadali na oblohe havrany – odpradávna považované za zlé znamenie – bubnovalo sa síce ďalej, ale tanec ich už prešiel.
+
+Niekoľko kilometrov pred stretom už bubny ustali úplne a na oboch stranách sa začali modlitby.„Žiadne nebo pre zbabelcov, bola téma krátkeho kázania na kresťanskej strane. Na každej lodi tiež zazneli slová pápežskej buly, v ktorej Pius V. sľuboval tým, ktorí padnú, odpustenie všetkých hriechov... Z lodí Svätej ligy zaznelo krátko na to ,Viva Jesu Christo!‘“
+
+priečelia jeho lodí boli nižšie ako u tých tureckých. V praxi to znamenalo, že kým turecké lode prestreľovali a ich delové gule končievali ďaleko za nepriateľom v mori, benátske lode oveľa ľahšie triafali do trupov vyšších osmanských plavidiel.
+
+Podľa istého záznamu sa Pius spolu so svojím okolím počas bitky modlil za víťazstvo ruženec. Pápež sa v jednom okamihu prestal modliť. Prítomným osobám vysvetlil, že to už nie je potrebné a že katolícka armáda práve zvíťazila.
+
+2020-07-11
+Sobota
+
+CS witness invitay´tion.
+Me and Kawai have set date for our wedding. We will get married on Nov 29.
+You are the person who gave me opportunity to come to my Hong Kong and I can tell how much our relationship  has meant for my life. That's why, it would be an honour to for me if you came to the wedding as my witness.
+
+20 jan 1968
+V tomto čase to nebolo ešte jasné, ale útok na Khe Sanh bol klamný manéver, ktorý mal vojensky oslabiť jednotlivé juhovietnamské mestá a zamerať pozornosť americkej generality na jedno menej podstatné miesto.
+
+MS
+What was a moment in your life that you motivated yourself to do something to prove someone's judgement about you is wrong?
+-you have new shoes. They will never stay so white.
+-you will never be able to speak Chinese
+-you will end up working here. Hong Kong was life adventure that gives you life experience
+-tech career, building products: it will be your side hobby until you will become busy with life
+
+Ka Wai.
+-I want to ask Lotso Sivak.
+-He has no knowledge.
+-But he has an opinion.x
+
+Religion.
+I don't know what it means
+I'm searching.
+Religion means accepting energy flows which form spiritual forces.
+Being religious means develop ability to sense them.
+By sensing them you can use them to advantage of yours or others.
+Same with running - you can put physical force to get you somewhere. If you use mind to control how you use your physical force, it will take you much further.
+All starts with mind, being able to switch it to different state.
+Empty it, take distractions out
+What's helping me - prayers and reflections
+Going to church
+Reading Bible and another religious books - qoran:80 percent same as Bible, rest helps to understand cultural difference - they all are based on Old Testament
+Learning more about eastern concepts of spirituality and energy - Buddhism, Feng Shui
+Everybody should explore their way to find what works for them. Blindly accepting other people's beliefs may get you stuck somewhere on the journey. You think someone else will do the job for you? People can help, but no one will do thinking for you
+Learn how to use your mind, how to control it. That's where I think path begins
+Open your communication channel with God
+Accept that not everyone will find it. There will be people denying and even if there was a clear path, teaching the opposite
+Start with yourself
+Change yourself first, changing others starts naturally.
+If you haven't started, anything what you say are empthy words what you don't understand. Perhaps it's called ideology - that's different from real actions - the point is: there is no obligation for you to spread your religion (and to convert others)
+-
+Control mind, understand energy - that's path to get closer to God.
+-
+Don't confuse with cultural aspect of religion - religion defined moral standards and laws - God is mightier than that
+-
+Action Items:
+Reserve time for spiritual excercises - it's same activity as learning new skill - figure out how to set goals
+Every time bring something new to the table
+Reflect on what worked and why - everytime try to make steps forward. No one else makes them for you
+-
+Q- if you could ask one question someone smart that would help you understand God, what would it be
+.x
+
+MS
+There is something deeper in life.x
+
+Trading also helps - teaches me how to ignore noise and control my actions
+Separating price action from environment where it happens. Focus only on its position, feel dynamics
+
+Harmony and balance result from channelling nonphysical forces and energies
+
+Find the way that takes you to the destination
+To know the God closer
+To sense his powers and forces
+What can I do?
+
+There is certainly not only one way to get there.
+Don't believe people who tell you there is only one. Usually it's one they are presenting you.
+
+How can you remain so positive?
+We live in the world which is keeping you busy, asking you to have opinions, to get engaged, or frustrated, to respond on something.
+You don't have to.
+Just ignore all that noise and you will start seeing things which are important to your life.
+MS
+
+Sometimes I think we live in a game which is controlled by aliens or someone on Earth. Like Sims.
+There must be some individuals who are smart enough to recognize it. They must be unhappy.
+
+State of opening up the mind
+It's like seeing unseen connections
+Happens when you create mental challenge that makes you push your limits
+-last time I had this feeling when I was transforming myself to the more visual person
+-sudddenly I am able to answer questions I thought I am not capable of
+--
+
+In many cases, masters have passed on their techniques only to selected students or relatives.
+
+氣
+-chinese medicine
+-feng Shui
+-martial arts
+
+What do you think of homosexual marriage?
+--why do you ask? Asking on my values? 
+-no strong opinion - I don't care. Why someone should be limited from what they think is right thing?
+
+
+Bol si dobre vedomý toho, že aj napriek istému výcviku väčšina jeho mužov nie je schopná vykonávať veľké taktické ťahy a presuny na bojisku. Jedinou možnosťou preto bolo držať ich v pevnej obrannej ulite tak dlho, ako to len bude možné
+
+Nedeľa
+
+Spoza hraníc Jeruzalema a mesta konštantínopolského strašné správy sa nám neustále dostávajú do uší, konkrétne povedané, národ z kráľovstva perzského, prekliaty to národ, národ úplne odcudzený Bohu... vtrhol do krajiny kresťanov vyhladzujúc ich pritom mečom, drancovaním a ohňom.
+Nech vami pohnú skutky vašich predkov a podnietia vo vás mužné úmysly; rozpomeňte sa na slávu a veľkosť kráľa Karola Veľkého a jeho syna Ľudovíta, ako aj ďalších vašich kráľov, ktorí zničili pohanské kráľovstvá a pripojili tieto kraje k územiam svätej cirkvi.
+
+Križiacka armáda pozostávala vo všeobecnosti z jazdcov na koňoch a podpornej pechoty. Jazdci disponovali silnými koňmi a značným opancierovaním, ich úlohou bolo prerážať nepriateľské línie ako tank. V rukách držali asi 3 metre dlhé kopije, kým hlavnou zbraňou pechoty boli stredoveké meče dlhé necelý meter a priemerne vážiace asi 1 kilogram.
+
+Zdalo sa, že posledné ostatky križiakov pomrú od hladu, smädu a únavy priamo pod hradbami Božieho mesta. Avšak vysoká morálka aj napriek problémom mužov neopúšťala, veriac, že plnia Božiu vôľu a že Boh im víťazstvo dopraje, keď sa už dostali tak ďaleko. 
+
+Each suit makes me a different person. 
+When I try them I think if I saw person walking on street wearing exactly same suit, who would he be? What would be his story, what would he do?
+
+Maminka.
+Si v drahej krajine, musíš mať drahý oblek.x
+
+Customer cares zero about you product, company or story. They only listen very little about what you can do for them
+
+Why is she obedient.
+She says its showing respect to a husband, but he's exploiting you. He's selfish.
+-shes doing that because it's easier
+-makes you feel safe. You don't need to think how to live your life. You follow orders. Something what someone else tells you. That's why people go to work.x
+
+It's all about Independence and self control.
+
+The more I think about purpose of life the more I want to know about God.
+Everything else is secondary, and helps me make new connections in brain (knowledge, experience) which help me see unseen.x
+
+2020-07-13
+Pondelok.
+Dnes to skúsim rozpísat podrobnejšie.
+Víkend - na raňajky som spravil steak a rajčinove toasty.
+Cez víkend som si skúšal obleky. Každý zo mňa spravil inú osobu. Najlepšie som si názor vyformovala, keď som mal na sebe obleky začínajúce od 20k dolárov. 
+Stále neviem, kde si dám spraviť oblek, ale mám už jasnú predstavu o strihu a látke.
+V ďalšom kole obehnem zopár krajcirstiev a nazbieram ponuky.
+Pri skúšaní oblekov nemám pocit že by som nakupoval - more about transforming myself into different personalities. Creating a different lives.
+-
+Návšteva ktajcirstva má základnú časť
+-getting to know each other - ktorá vytvára dôveru. Potom môžeme diskutovať podrobnosti toho, čo očakávam.
+-
+Hongkongske krajcirstva v skutočnosti nie sú krajcirstvami ale len sales room. Zaznacia miery a oblek sa užije v Číne.
+Je to factory line proces.
+Človek, čo šije oblek je iný ako ten, čo prijme objednávku. Ak má človek, čo ho šije za úlohu ušiť čo najviac oblekov, dá sa čakať že bude venovať pozornosť detailom? Navyše ak nemá osobný vzťah s človekom, čo ho bude nosiť.
+-
+Sú dva typy krajčírstiev - viac orientované na mid-tier a highend: majú základný štandard a cenu, pod ktorú nezlezú.
+-ostatne sú pre každého od budget customer po highend. Ak chce prijatelny oblek, tak ho spraví. Ak chce vo vysokej kvalite, tak ho spravia.
+Pri nich mi chýba niečo, čo by mi neprekážalo, keby chcem oblek na každodenné nosenie - I want a special suit and I want to feel special about that.
+
+Pri ready to wear oblekoch zase nemam dôveru, že mi oblek naozaj pasuje. 
+Taký oblek je len šablóna, ktorá sa pravi podľa potrieb ale z princípu sa nejedná o perfect match.
+
+Dedication to understand myself and driving forces of the world shows me something what I am getting understand
+All worries and problems are secondary. Looking for suit, work challenges - that's all on second level.
+There is something bigger than that and all the other doesn't  reach it its feet.x
+
+Raňajky. Sendvič s arasidovum maslom. Posledný týždeň som bol prejedeny chleba a tak som raňajkoval cereálie s mandľovým mliekom.
+Zvykol som si na jeden.alebo dva dni pripravit jedlo z domu.
+Minulý týždeň to boli celozrnné špagety s mozzarellou a roztlačenými orechmi a rajčinami. Nakrájané sušené rajčiny.
+
+-Akú máte kávu?
+-Čiernu, čiernu s cukrom a normálnu.
+-To je aká?
+-S mliekom.
+
+Self-improvement 
+-end with meeting with I need to x, I need to run -> even if you don't have anything pressing you
+-leaves better impression than this chat takes too long or I should start doing something else
+-tells you enjoy conversation but cannot continue - it's something that makes counterpart feel great - you found time despite of being busy
+
+Steve Jobs
+You will see apple absolutely committed to it's values and changing something - didn't work, doesn't make sense for customers any more
+
+2020-07-14
+Utorok.
+
+Michael Bloomberg
+Like any brilliant trader he cuts complex ideas down to sizewith a few slashes of his sharp tongue
+
+-they gave me the biggest favors of my life: they hired me and they fired me
+I didn't look back. This is what it is. And thank goodness
+
+-starting a business in crisis. You cannot build a steel mill, but there is always good time for starting g sˇall companies with good ideas
+
+Successful people have inferiority complex - they keep pushing on things even if the world thinks they have made it
+
+-Our ideas domt come from smart people: my job is to keep us from developing g a culture that preludes a new hires kid to say: why don't we try this?
+
+-if we entered an industry with small companies, it would be harder. Big companies. With enormous management that resists change - like generals who don't want to go to war because they have big cushy jobs to prepare for war
+
+-decision making: do something only if it improves core business. If not, it's awaste of time
+
+Streda.
+
+Working from home.
+Breakfast - boiled eggs, morcadella, cherry tomatoes with black pepper and olive oil, strong coffee
+Had problems with concentration. Doing work from home, scorching weather - very distracting.
+Stared doing things unconventionally - did some work on foundlost I couldn't do for month and opened frozen beer - that's the way. Now I can ask what's on the plate today
+
+Longan
+
+Najprv sa dostala do Benátok, no keď sa kráľ Ľudovít IX. dozvedel o jej osude, ihneď ju odkúpil a poslal po ňu vojsko. Kurátor hovorí: „Keď sa sprievod s korunou približoval, kráľ Ľudovít vyšiel von z mesta, bol bosý a mal len veľmi skromné oblečenie. Povedal: „Som najmocnejší kráľ na svete, avšak nie som nič v porovnaní so skutočným Kráľom. Moja koruna je zo zlata, no nie je nič oproti jeho skutočnej korune vyhotovenej z tŕnia.
+
+...kráľovi sa viedlo tak zle, že jedna zo žien, ktoré sa o neho starali, mu už chcela dať na tvár prikrývku tvrdiac, že je mŕtvy. Ľudovít sľúbil Bohu, že ak ho uzdraví, zorganizuje a osobne povedie novú križiacku výpravu na oslobodenie Jeruzalema. Panovníkovi sa naozaj začalo pomaly uľavovať a onedlho vyzdravel úplne. 
+
+"Keď sa galeje približovali, zdalo sa, akoby sa vznášali; takou silou ich veslári hnali vpred... a s trepotaním zástav, bubnovaním na bubny, pazvukom vychádzajúcim zo saracénskych rohov na palube lodí by sa vám zdalo, že hromy sa roznášajú po celej oblohe. Hneď ako bola loď navedená na piesočnatú pláž, gróf so svojimi rytiermi zoskočili na suchú zem, dobre vyzbrojení, dobre pripravení, a postavili sa vedľa nás.“
+
+Vždy sa usiluj konať vôľu Božiu, a to pre neho, nie pre nádej v odmenu či strach z trestu.“ Posledné kráľove slová boli: „Jeruzalem! Jeruzalem!“
+
+2020-07-16
+Štvrtok.
+
+Going to work gives you structure
+Someone tells you what to do and when you finish you get another task.
+Most people, when they are not loaded with tasks get bored or try to look for pseudotasks to get them busy.
+-
+Independence means to create structure that doesn't rely on anyone.
+Need to be disciplined and set rules which will keep you focused on rq´ight things
+If you feel doscracted, you should ask if you still follow your rules.
+
+Compound interest
+Get one percent better
+
+2020-07-18
+
+Piatok.
+
+Lalamove townhall
+Compounding effort
+Sequoia China asked me how much you have grown over past year? I track daily numvers but I didn't have answer 60k to 200k orders
+On day-to-day basis I can see many problems. You don't feel you make any progress. You see struggles.
+Every single day you don't feel progress
+Apply effort consistently for very long time
+Same when you learn language.
+Same happened to me with poker - after long time of defeats I became a winning player
+Once you look back over long period of time you'll be proud of what you have achieved.
+
+Use now on - používať odteraz
+
+Politika je riadenie projektov, nie ideológia
+Merkel
+
+Packaged meal sets - courses
+Pierre - express lunch (sat) 688
+Breakfast-cafe causette
+Mandarin grill - Sunday Roast 750
+Cafe causette - lunch 3 courses, breakfast, afternoon tea
+
+No:
+Clipper lounge - afternoon sets
+British -bar Chinnery
+
+
+I know this may be too late - I would like to take Judy for lunch to Pierre. I know whis going to close and this would be our last chance.
+Would you try to arrange us a table?
+I am open to your dining suggestions. I also assume that all restaurants are closed in the evening.
+
+
+Make it special to show how much she means for me.x
+
+Somwthing with my life philosophy - I have never settled with good. Always aimed for the best. In anything.
+-
+Settling with average means being unhappy.
+I never wanted to be a guy who seeks for entertainment, (fill whatever), I wanted to be the guy who creates that
+-
+Create what you consume / brought me tophotography and tech
+
+Forex Jourmal
+This week has been interesting
+I have made many wrong decisions. All trades went off.
+I was graceful that - since I raised stakes things were going well. I wanted to test my emotional stability in cases when start losing large amounts of money which is part of trading
+60 percent of my bad trades were result of breaking my rules - due to emotionality
+Exposing myself to high risk for low profit,
+Panicking and exiting from trade too early
+-
+I also started using 4h and 1day for making decisions
+-
+Previously I was doing great job on 1h resp 30mins where with perfect timing I was able to close trades in minutes
+-
+Failures forced me to learn more from pro traders - how they analyse price actions, what's their setup before they make deal, when they enter and exit trade
+
+Ka Wai
+-Lotso Sivak, did you want to say that I look like a Filipino?
+-Fortunately I didn't.x
+
+官gün - government official
+
+Mandarin - 
+Michelin restaurant - chef awarded
+-
+Spinach - oversalted
+Peas - natural sweetness of beans
+Lamb roll
+Gravy - from lamb, strong taste of caramel
+Mashed potatoes - could taste coconut - overalls netural taste to balance other ingredients
+Mushrooms - kuriatka - jemne tvrdé
+Bresaola - dripped with olive oil, truffle sauce
+Tuna - shashimi with roasted sides coated in parsley. Served with pineapple
+
+Ka Wai.
+Night bath. Harbor view 
+-Lotso Sivak, have you seen the view? Tomorrow at this time you'll watch Yau San Gai.
+
+2020-07-19
+Nedeľa
+Sprcha je super.
+
+Ráno. Greyhound. Film s Tomom Hanksom.
+
+Ranajky ako v hoteli. Rozprestrety stôl pri okne, z jednej strany výhľad na statue square, z druhej harbour.
+Na stole naservírované ovocie, jogurt, pečivo, namäkko varné vajíčka v syˇtojancekoch, pečené anglické klobasky, losos a volské oká.
+
+-Straberries were soso.
+-Strawberries I tried were tasty.x
+
+Ďalekohľad.
+Super hračka do veľkomesta.
+
+Restaurant - simple and elegant interior, niece ambience. Liked the ceiling.
+Hotel - last major renovation - 14 years ago. Furniture is wooden - vulnerable to flaws - but in good condition - furniture gives a nice touch of old-fashioned elegance
+
+Protest 721 v Yuen Long. Many police.
+-It was first time for water Canon to visit Yuen Long. Hakgeng seems pereparing for war.
+
+“. „Som zástanca prevahy rastlinnej zložky v strave, je to nesporne zdravé. Len si neglorifikujme rastliny a všetko zelené ako niečo, čo nám nemôže uškodiť. Veď sú aj jedovaté rastliny,“
+
+Mandarin Orienatal - hotel, kde bývala princezná Diana, Margaret Thatcher, americkí prezidenti od Nixona až po Busha.
+
+Vybavil som pre nás na víkend najlepsiu izbu
+
+Prechod sprevádza aj zmena kompozície črevných baktérií, ktoré pomáhajú vytvárať účinné látky z vlákniny – proces prestavby trvá niekoľko týždňov až mesiacov,“ vysvetľuje.
+„Čiže ak vegán nováčik už po týždni cíti nekonečný príval energie, ide primárne o psychologický účinok. 
+
+20 percent ekonomickej sily Slovenska (hdp) je v Bratislave.
+
+2020-07-20
+Pondelok
+
+Llm
+Never let sales people design final look of experiences
+Sales people know how differences between options and talk to them in their language - this isn't always problemless
+As UX designer, your job is more than create interfaces. Your role is to translate problems of stakeholders to the way that custimer understand.
+
+-Someone is cleaning the windows.
+-Now I can see the world better.
+
+You can't have mass-production unless you have mass-customers
+
+100 couples share secrets to successful relationship
+--
+Love is not just emotional - it's a skill. If you stop investing in yourself, your bad habits and poor communication will chip away at your relationship — whether you’re married or not. 
+you need to make an effort—think about your spouse during the day, think about how to make a good thing even better, and act.”
+--
+Choose right partner - Make sure (or believe) the person you pick to be your partner will be a great parent. If you have any doubts about that, move on.” if it doesn't work, you have to co-exist and co-parent. Fall in love with soul - soul will never change
+--
+Respect and trust - you don't own and control the other person, their time, activities, feelings
+--
+The 80/20 rule -: In your marriage, you should each recognize that your relationship is 80% about the other person and 20% about yourself.
+/I recognized that gifts were great, but it was really quality time that filled my wife's love tank that things changed dramatically after parenthood had worn us down a bit. /
+--
+Respond to bids - connection request - “Look at that beautiful bird outside!” Happy couples acknowledge and respond to each other’s bids even if it’s just for a quick moment.
+Most relationships don’t collapse because of one blow-out fight. They often fall apart because the partners were consistently turning away from each other.
+--
+Listen - I was trying to do everything I could to help but in the end, there was little I could do to help her.”  To listen, remove all your biases
+--
+Intellectually stimulate each other - we are busy and hectic, but we developed strategies to ensure relationship won't fall apart - eg90 percent time talk about ideas
+*Stay curious - tell your partner one thing you learned today*
+Have them teach you sth new. Experience sth new
+*The most successful couples keep learning and growing side by side.*
+--
+"Do I want to be happy, or do I want to be right?’” win argument but lose relationship
+--
+Treat arguments as negotiation - form precedes content
+Once you start raising voice other one start rolling eyes (often caused by vulnerability). *Compromise leads to unhappiness for everyone. Negotiate* instead - stay rational, calm, look for win-win
+Chris Voss - speaking in smooth soft voice will calm you down. Other party too
+We mostly argue about little things
+In good marriages, couples actively *de-escalate conflicts* by doing things like injecting well-timed *humor* into tense and difficult situations. Humor can lower the tension level of an argument, destroy the division between you and your partner, and remind you that you’re human
+--
+Repair - even happy couples have nasty arguments. Like unhealthy couples do, but at some point they have a conversation where they recover from it. The difference is that healthy couples have effective strategies to repair the conflict quickly rather than letting it fester.
+MM - difference between my first marriage is we resolve problems. Things cannot get swept under the rug. Tactic: don't push. If it wasn't resolved today, have cup of coffee in the morning and discuss
+--
+No censorship - don't hesitate to clean out the air and talk about hard things.
+Many unsuccessful couples *regret that relationship fell apart due to misunderstandings and poor communication*
+There is no perfect relationship, compromise except of your values, morals, ethics
+--
+*You are the only person who can make you happy*
+You can help, encourage, give security and support
+You are in charge of your happiness - you can't make someone else happy
+Find your path
+--
+Forget big romantic gestures. Do small minigestures every day
+Biggest things were built on little things, acts, words - eg drop everything when spouse has something to tell you
+-
+*Challenge to improve mentally, physically and spiritually* - support to evolve into better selves.
+-
+10 years curse - many relationships collapse because they don't / refuse to change. From fun times at 20s,30s, to another level.
+Husband is introvert, I am...you know me. He's early bird, I am night owl. Now he's sleeing
+Relationship: Always a WIP, ROI equals what you put in
+You may have 3-4 marriages in your life with the saˇe person, each will have different structure, flavor, complementarity
+-
+Give life to your dreams
+-
+Love is skill, not only emotion - learn whole life to master
+-
+Remember what matters - first moments, what it meant for you. First dates, excitement,...
+
+MS
+-be crazy. Normal is boring
+-keep in loop. Maintain your privacy but give high level updates on your thoughts and direction from time to time
+
+Mark Twain once said: ‘I can live for two months on a good compliment.’ 
+
+2020-07-21
+Obed.
+McDonald's s extra vysmazenym kuraťom.
+
+Dal som si za cieľ pribrať aspoň 2 kilá
+
+Llm
+Matteo
+-we are trying to ask user to tell us what they need in a way our system could understand
+-how about let them express in way natural to dˇthem and do our best to understand.
+Use the other way as the last result
+-without this as default get them to outcoˇe much faster
+Assume majority of queries is super simple
+Use ambiguous terms - why would you think in numbers? People are bad in that
+-but pizza vs 500g. Is 450g good?
+--
+Assumption: every query has one piece of information which is critical. If you focus on it, high chance you will give desired results
+
+LLM
+Effective feedback
+-forgetnwhat you know
+-you are fresh driver - what's your motivation? What do you want to find there?
+
+2029-07-22
+Utorok.
+
+Ka Wai.
+Lotso Sivak
+-tomorrow is šašak's bday. And snaliko's and pimpini's. We will go to Mandarin Orienatl again. This time for a week.
+-
+Pozval som chrisa na svadbu ako svedka. Vážim si, čo pre mňa znamená. Vďaka nemu som v HK a spoznal Kawai.
+-
+.x
+
+Spent 30 mins this morning on improving my market analysis skills - learning from pro trader. Found it helpful for me in oylther areas as well. I am better in separating emotions from my actions and my long term focus has improved as well
+-
+Forex is like a giant lever with people on it. People can freely move from one side to another. Once it starts leaning to one side - people run in panic to other side. This creates fluctuations, but can also explain support and resistance levels
+
+When you are debugging - validate assumption about code. Don't focus on what might be broken, start by proving that everything that is workingos actually working. 95percent of the time the bug is there
+
+Melanie
+Thoughts for Friday lunch
+-how was working with me?
+-value is in asking right questions - more than work itself. How to improve?
+
+Llm.
+Paula. UX sharing. How not to make your presentation boring
+-
+-
+Good presentation skills make difference.
+#
+Apply empathy to know that audience wants to hear
+-make a dialogue, not monologue. It's not a sharing, it's conversation starter.
+-your job is to spark curiosity, not to finish telling  what you prepared. - if you care only about finishing, you are like fisherman who returns with empty nets
+-dont talk about all 50 insights you found. Tell about 3-4 that audience may want to hear. They will find more in your report
+That should be outcome - to make them strive to learn more
+-take your sharing to high level. Detailed insights are in your report. Tell them what they can't find in raw data.
+Your interpretation may not always be right, but being wrong may start conversations that will benefit everyone
+
+2020-07-23
+Stvrtok.
+
+Pozdní vrčer, chuc veliká
+
+
+Ka Wai.
+Šašky bday.
+Kúpil som cupcakes. Fialový pre lotsa.
+Thajská večera - obrovské krevetky.x
+
+2020-07-24
+Obed s Melanie.
+-working in startup: its in existential interest to take care of customers needs
+-asked founder it's hard to stay motivated. Start an idea is easy
+-you really need to believe in it
+Lalamove plus
+-draco proud of their culture - customer centric, working fast
+Llm workflow
+-brings business and product together
+-business cares about short term benefits
+-will be challenging to get their buy-in
+-thats why Janice is working on onboarding.
+--
+Rozprávam o Closer and Foundlost
+--
+Melanie a Foundlost
+-very interested in
+-strong product person - planning and execution
+-would love to work in indie team, in strong customer centric culture
+--
+Remember for future - catch up to follow up, ask for feedback
+##
+
+Fo (krátke) THOIII - Ziadny dlzen - šunka
+Syu (super krátke) beng - hash brown
+Zha ñha - obe krátke - zuby
+Čho ho - spievať si
+
+Ka Wai.
+-Lotso Sivak, you will smell like Fišky's fart.x
+
+Manstein preto navrhoval rýchly útok čím skôr, najlepšie už začiatkom mája, kým Červená armáda nestihne obnoviť svoj útočný potenciál. Operácia dostala kódové označenie Zitadelle – Citadela.
+Walther Model vzniesol požiadavku na odklad začiatku operácie aspoň do polovice júna, aby nemecké obrnené jednotky mohli byť doplnené tankami nových typov PzKpfw V Panther a PzKpfw VI Tiger.
+Model argumentoval, že čas, ktorý sovietske vojská získajú vďaka odkladu operácie, bude vykompenzovaný zvýšeným bojovým potenciálom nových tankov.
+
+Sovietske velenie vedelo, že takéto rozsiahle prípravy na bitku pred nepriateľom neutají, ale snažilo sa pred nepriateľom skryť aspoň presné rozmiestnenie a silu strategických rezerv.
+
+Na štáby nadriadených veliteľstiev mali prístup výhradne len velitelia podriadených jednotiek a ich zástupcovia. Umiestnenie štábov bolo veľmi dôkladne maskované. Jeden z veliteľov pluku spomínal, že veliteľstvo jeho divízie bolo maskované ako kravín. Vždy keď išiel na štáb, musel z auta vystúpiť aspoň sto metrov pred „kravínom“ a zvyšok cesty dôjsť pešo prepletajúc sa pomedzi stádo kráv.
+
+Lenže nie nadarmo je Konstantin Konstantinovič Rokosovskij považovaný za jedného z najlepších vojvodcov Druhej svetovej vojny. Z Modelovho *počiatočného úspechu vyrobil výhodu pre seba.* Okamžite prikázal svojej 48. armáde, aby sa stočila na západ a udrela Nemcom do boku.
+
+Nemci boli rýchlosťou preskupenia sovietskych vojsk zaskočení, ale ich tankisti medzi sovietskymi tankami T-34/76 aj tak rozsievali skazu.
+
+Dym, prach a krátke vzdialenosti medzi bojujúcimi tankami prakticky znemožnili činnosť taktického letectva, čo tiež prispelo k eliminácii taktickej prevahy nemeckej Luftwaffe.
+
+Pri Prochorovke sa na území osemkrát osem kilometrov v štrnásťhodinovej bitke stretlo 1400 tankov. Bitka skončila taktickou remízou, ba dokonca s ohľadom na to, že bojisko sa po súmraku v podstate ocitlo pod kontrolou Nemcov, sa dá hovoriť o čiastkovom nemeckom víťazstve. Strategicky ale jednoznačne zvíťazila Červená armáda. Nemecký útok stratil hybnosť a sovietska obrana vydržala.
+
+Na nočnej porade v Kremli maršal Žukov hlásil Stalinovi, že podľa názoru jeho a veliteľov frontov sa nemecký útok už vyčerpal a žiadal súhlas so zahájením ofenzívy. Stalin súhlas dal.
+
+1 = 2
+2 = 5
+3 = 9
+4 = 14
+5 = 20
+6 = 27
+7 = 35
+8 = 44
+
+1=2
+2=2+3
+3=2+3+4
+4=2+3+4+5
+5=2+3+4+5+6
+6=2+3+4+5+6+7
+7=2+3+4+5+6+7+8
+
+2
+3
+4
+5
+6
+7
+8
+9
+
+(N+3)*(n/2)
+(N+3)*((n-1)/2) + (N+3)/2
+
+n(n+3)/2
+Priemer prvého a posledného, vynásobiť poctom
+
+Avšak ani tých pár koní by nestačilo na skutočne mohutnú presilu Aztékov. Cortés preto urobil sčasti mimoriadne odvážny, sčasti absolútne zúfalý čin. Rozhodol sa podniknúť nečakaný nájazd priamo na veliteľa nepriateľskej armády Matlatzincatzina.
+
+-when outnumbered, always fight their leader - demonstratively beat him to demoralize the rest.
+#
+
+Nastal však ďalší problém – začali sa búriť posledné zvyšky vojakov, ktorí boli ešte nažive. Veliteľ im však pohrozil, že ak budú dávať najavo svoju slabosť, v krajine divochov nebudú mať žiadnu šancu na prežitie a on im nijako nepomôže.
+
+2020-06-26
+Nedeľa
+Ka Wai
+-I'm going to make refreshing drink from cherries, lemon and ice.
+..
+-Šašky hurry up. The fashion show starts in 15 mins.
+-I'm not joking. I'm having my excercise session
+-Everybody will attend. Lotso Sivak, snailko, Pinguini
+..
+-Šašky look at my refreshing drink. Do you want to try?
+
+Takto vyzerá zážitok dňa.
+Hokkaido steak na rozmarínu a censaku - stal toľko ako môj týždenný rozpočet na jedlo a to bol ešte na zľave.
+K nemu sme piekli papriky
+Popri paprikach sa piekol starý chleba, ktorý všakovaké šťavu z paprík
+
+Nebol to jediný zážitok
+-mame nový rozmarín
+-dim sum na raňajky
+-fashion show
+-chacha dance
+-refreshing drink
+
+A lot of little moments
+
+-Sounds is it my fault?
+-Can you control it? How can it be your fault?
+
+2020-07-27
+Pondelok
+
+Varíme gnocchi.
+Prvý problém - do častá malo ísť len jedno vajíčko, nie dve. Mali sme problém vytvarovať cesto, tak sme to dali na halušky.
+Viedli sme diskusiu o chuti, v ktorej boli cítiť zemiaky. Podľa môjho názoru sa odlíšili od cestovín, ktoré nemajú skoro žiadnu chuť a ich úlohou je prijať chuť z ostatných surovín
+V ďalšom kroku som snažil gnocchi/halušky s brokolicou. To bol tak trochu risk keď brokolica zmäkla viac ako som čakal, ale uvoľnila svoju chuť, ktorá vyvážil zemiaky.
+Tretia vec bolo orestovat´ť rajčiny a piniove orechy a nastrúhať kopec parmezánu.
+
+Vúně fajná
+
+Why I like cooking
+Cooking is a process of creation. You are targeting different senses.
+
+Cooking is not only about creating food. It's a shared activity and it creates conversations.
+
+Zlepšil som recept na osviežujúci nápoj a okrem ovocia a ľadu nebolo treba pridávať žiadnu vodu navyše
+
+Kdo je ten muádenec v bíuem?
+Po prvému demjónku družný spoločník, po trecém kludný v mysui, počtvrtém sa už na císarže pána ponášajú.
+
+Temná noc a ješte temnejší ulice
+
+Ms
+Always want the best for myself
+Get to the best places
+Get the best opportunities
+-
+Never settle with average. Then you become average.
+-
+Always remember why you started.
+What was a life you wanted to live
+
+2020-07-28
+Utorok.
+Raňajky. Dobre dim sum
+Od zajtra je dining in zakázané. Reštaurácie sa zmenia na kuchyne na takeaway
+
+Doba nikdy tak nepriala rozvozom aj najzákladnejších veci tak ako teraz.
+
+Wuhan flu - už vyše týždňa je súvislý prírastok vyše 100 prípadov.
+Ešte pred dvoma mesiacmi niečo také bolo nepredstaviteľné
+
+Mmm gan (krátke) jiu (stredne) - nevermind
+
+Čím viac je človek starší, tým viac sa stará o zdravie
+
+Ka Wai.
+-You are not member of our Romantic Karaoke Ckub. Don't disturb us in our club activities
+-
+-Youtube Video Vlub. This is another club.
+-Am I member?
+-No
+
+Hou thong a Tai Lou
+Nei ho-ji Bei strawberries o
+
+2020-07-29
+Streda
+
+I herited wealth is real handicap to happiness.
+It leaves you with nothing to hope for, with nothing definite to seek or strive for
+
+Sliced a melon in the morning. It's super sweet and tastes like honey
+
+Ka wai
+Steamed rice rolls and pork dumplings.x
+
+Jiu ceng gei loi - low long does it need to steam?
+
+Immigration
+35211840
+28293100
+
+Štvrtok.
+
+Forex
+Tento týždeň som zarobil 175usd, čo prekonalo bežný týždeň dvojnásobne
+Presunul som focus z hodinového grafu na denný. Zlepšili sa aj moje analytické schopnosti.
+Takto vyzerá proces na ideálny setup
+-trend confirmation (higher term: 4h, 1d)
+-weekly pattern alignment (in last month)
+-trend confirmation on short term - less than 1h
+-pattern spotted in other currency pairs
+-risk reward analysis - be able to set exit point
+If all things done, then ready to enter trade
+
+Working dˇfroˇ home this week
+-have much more flexibility. There is not much when spending all day in the office
+-cooking every day - pancakes for breakfast, duck breast on Rosemary and  mash potatoes for dinner
+-can drink almost frozen beer in the middle of the day
+
+My goal is to launch a product this week
+-finalising Closer prototype
+
+Ways to provide value to org
+-execution
+-planning
+-learning - investing into self
+
+Working on own product is a test of leadership and product skills
+-makes me a better employee
+Execution at any cost - do things for sale of doing is act of weakness
+My principle - invest into things that are meaningful. Doing something that doesn't create value but is easy 
+-see it daily life - looking for quick entertainment - to fill an hour before something else - think long term - accumulate free hours - create a bigger piece
+
+Orange and potato chips - tomato, seaweed, spicy - caliber
+Bread?
+
+To Melanie
+I would like to tell you more about projects I told you last week on launch. I would like to tell you about challenges we came across at Closer and Foundlost and I would appreciate if you gave me your feedback on how we are trying to solve them.
+Would you be interested?
+
+2020-07-31
+Pitok.
+
+Raňajky
+McDonald's.
+Ryba
+Káva
+
+-We can cook more and you can take the rest for lunch at work. But you will eat the same food.
+-I will eat the same food on different places. It's ok.
+
+Let's this pandemic remind you we don't need most of the crap our economy is producing
+
+Ka Wai
+Teta - prekladá prádlo viackrát za deň, aby naňho čo najdlhšie svietilo slnko. Chodí nervózne po balkóne každú chvíľu, vkuse si niečo šomre.
+You keep it as it is and collect it on another day - 
+Some problem pay their attention to unimportant things. They get outraged on problems of someone else, creating big issues from tiny things
+It's easier than finding more meaningful activities
+Remember cumulation - getting 1 per cent better every day is 3600 percent in year.
+Getting 0 percent better a day means zero percent in a year
+
+I fel purpose, I felt useful
+Everybody can be griller, call myself choripan chef
+
+People eat with eyes first, then mouth and last with heart
+Your food must offer color
+
+Stories of chefs - owners of streedfood stalls
+How their stalls became famous - twisting point
+How word of mouth became to spread, how received interest from journalists and Michelin chefs
+For most of them - on beginning of their career there was a negative personal or professional event which took them on their path
+
+Closer
+Link emails - if people send you on multiple emails,
+Add email and messages will magically appear on desk
+Writer A can create Alias for B
+
